@@ -1,7 +1,8 @@
 # Learnify
 The UI/UX design of this app is done by me, for Brmjha Company.
 
-![mockuuups-flying-smartphone-mockup-with-spheres](https://github.com/mothla/LearnifyApp/assets/94991403/464082ba-bcba-4c41-8406-89dcebd2af61)
+
+![mockuuups-flying-smartphone-mockup-with-spheres (1)](https://github.com/mothla/LearnifyApp/assets/94991403/bdd536dc-167e-4821-864c-b57ab8c7bcc9)
 
 
 
